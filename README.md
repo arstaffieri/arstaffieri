@@ -4,6 +4,6 @@ I am a Front-End Software Developer with a certificate from [Turing School of So
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=arstaffieri&&style=flat-square)  
-
 ![Angie's Repository's Stats](https://github-readme-stats.vercel.app/api?username=arstaffieri&show_icons=true)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=arstaffieri&&style=flat-square)  
