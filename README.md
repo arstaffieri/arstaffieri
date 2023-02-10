@@ -6,7 +6,7 @@ I am a Front-End Software Developer with a certificate from [Turing School of So
 
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 
-![Angie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={arstaffieri})
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arstaffieri&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 ![Angie's Repository's Stats](https://github-readme-stats.vercel.app/api?username=arstaffieri&show_icons=true)
 
